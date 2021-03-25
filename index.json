@@ -862,7 +862,7 @@
         "manufacturerCode": 48830,
         "imageType": 4946,
         "sha512": "0a76e828336c64a4996c5c528d4e5f6ed1ab4560efedf03e52eb62ef2d95b774baa3522c63bfef97742728767ad33ddb0ac52387c76512e1008bd8df88e859ae",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ees/BEBE-1352-00000002.zigbee",
+        "url": "https://github.com/lampl92/zigbee-OTA/raw/master/images/Ees/BEBE-1352-00000002.zigbee",
         "path": "images/Ees/BEBE-1352-00000002.zigbee"
     }
 ]
