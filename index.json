@@ -857,12 +857,12 @@
         "path": "images/Sengled/1594189489604_RDS2017039_E12_N1E_V0.0.30_20200630_SVN396.ota"
     },
     {
-        "fileVersion": 2,
-        "fileSize": 213290,
+        "fileVersion": 1,
+        "fileSize": 206882,
         "manufacturerCode": 48830,
-        "imageType": 4946,
-        "sha512": "0a76e828336c64a4996c5c528d4e5f6ed1ab4560efedf03e52eb62ef2d95b774baa3522c63bfef97742728767ad33ddb0ac52387c76512e1008bd8df88e859ae",
-        "url": "https://github.com/lampl92/zigbee-OTA/raw/master/images/Ees/BEBE-1352-00000002.zigbee",
-        "path": "images/Ees/BEBE-1352-00000002.zigbee"
+        "imageType": 9810,
+        "sha512": "1c21e647b5f6b5e8c1e0bfb528ac716754d3c9a2e994a169fae2767263fb7091f965e2f5aa877acf91bf5b037d2df0a8fac20cfbb95a3597982382812814ce4d",
+        "url": "https://github.com/lampl92/zigbee-OTA/raw/master/images/Ees/BEBE-2652-00000001.zigbee",
+        "path": "images/Ees/BEBE-2652-00000001.zigbee"
     }
 ]
